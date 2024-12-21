@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hello, I'm Chinmay Hegde</h1>
 <h3 align="center">A self taught MERN Stack Developer from India.</h3>
 
